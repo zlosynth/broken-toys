@@ -1,3 +1,5 @@
+//! Did not have any use for this, yet.
+
 // Thanks to Nigel Redmon for his series about ADSR
 // http://www.earlevel.com/main/category/envelope-generators/
 
